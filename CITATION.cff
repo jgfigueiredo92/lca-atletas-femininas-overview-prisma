@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se usar este conjunto de dados, cite-o como abaixo."
+title: "Revisões sistemáticas sobre lesão do LCA em atletas do sexo feminino: registro de triagem PRISMA e lista das revisões incluídas"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-10
+license: CC-BY-4.0
+authors:
+  - family-names: Figueiredo
+    given-names: João Gabriel da Silva
+    affiliation: Universidade do Estado da Bahia (UNEB), PPGMSB
+  - family-names: Fontoura
+    given-names: José Roberto de Araújo
+    affiliation: Universidade do Estado da Bahia (UNEB), PPGMSB
+  - family-names: Santana
+    given-names: Erivelton Nonato de
+    affiliation: Universidade do Estado da Bahia (UNEB), PPGMSB
